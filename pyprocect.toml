@@ -1,0 +1,15 @@
+[project]
+name =  "netbox-invoices"
+version = "0.1.0"
+authors = [
+    {name = "Brynjar Friis Aune", email = "brynjarfaune@gmail.com"},
+]
+description = "Invoice management plugin for NetBox"
+readme = "README.md"
+
+classifiers=[
+    'Natural Language :: English',
+    "Programming Language :: Python :: 3 :: Only",
+]
+
+requires-python = ">=3.10.0"
